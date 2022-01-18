@@ -41,14 +41,13 @@
 // }
 // export default App;
 import React from "react";
-import React, { useState } from "react";
 import "./App.css";
 import About from "./components/About";
 import Contact from "./components/Contact";
 import Projects from "./components/Projects";
 import Resume from "./components/Resume";
 import Footer from "./components/Footer";
-import Header from "./components/Header";
+// import Header from "./components/Header";
 import Navigation from "./components/Navigation";
 
 export default function App() {

@@ -43,7 +43,7 @@ export default function About() {
           <img
             className="object-cover object-center rounded"
             alt="this is me"
-            src=""
+            src="./images/Alex Nunez.jpg"
           />
         </div>
       </div>
