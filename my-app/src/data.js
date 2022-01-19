@@ -10,14 +10,14 @@ export const projects = [
     title: "Password Generator",
     description:
       "The goal for this application is to generate a random password for those looking for new a password. The generator gathers random numbers together and spits something out that follows the users choosen guide lines. ",
-    image: "./images/Screenshot 2022-10-06 142945.png",
+    image: "./images/Screenshot 2021-10-06 142945.png",
     link: "https://anun05.github.io/Homework-3/",
   },
   {
     title: "Team Profile Generator",
     description:
       "The following link will provide a video demo, however, the purpose of this application is to use this by running node index.js to the command line and answer the following questions prompted. After all question's have been asnwered, an html page is genertaed that prompts the user with different cards with different employee information.",
-    image: "./images/Screenshot 2021-01-18 133038.png",
+    image: "./images/Screenshot 2022-01-18 133038.png",
     link: "https://watch.screencastify.com/v/MYcAV2hLfq2sj5vHmrZt",
   },
   {

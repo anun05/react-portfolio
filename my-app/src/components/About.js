@@ -1,4 +1,5 @@
 import React from "react";
+import Alex from "../images/Alex Nunez.jpg";
 
 export default function About() {
   return (
@@ -43,7 +44,7 @@ export default function About() {
           <img
             className="object-cover object-center rounded"
             alt="this is me"
-            src="./images/Alex Nunez.jpg"
+            src={Alex}
           />
         </div>
       </div>
