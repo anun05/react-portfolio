@@ -1,7 +1,4 @@
 import React from "react";
-//import { ReactComponent as Logo } from "../../assets/github.svg";
-//import { ReactComponent as Logo } from "../../assets/linkedin.svg";
-//import { ReactComponent as Logo } from "../../assets/resume.svg";
 
 const footer = () => {
   return (

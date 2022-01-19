@@ -32,10 +32,10 @@ export default function About() {
               others in groups.
             </a>
             <a
-              href="#Resume"
-              className="inline-flex text-white bg-green-500 border-0 py-2 px-6 focus:outline-none hover:bg-green-600 rounded text-lg"
+              href="#resume"
+              className=" ml-4 inline-flex text-white bg-green-500 border-0 py-2 px-6 focus:outline-none hover:bg-green-600 rounded text-lg"
             >
-              Check out my resume!
+              Check out my!
             </a>
           </div>
         </div>
