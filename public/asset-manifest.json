@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/alex-nunez/static/css/main.314a52d6.css",
+    "main.js": "/alex-nunez/static/js/main.56f1506a.js",
+    "static/media/Alex Nunez.jpg": "/alex-nunez/static/media/Alex Nunez.d585d170b992c4c95d39.jpg",
+    "static/media/resume 2.0.docx.pdf": "/alex-nunez/static/media/resume 2.0.docx.1f057d5ce1db9cec4c31.pdf",
+    "index.html": "/alex-nunez/index.html",
+    "main.314a52d6.css.map": "/alex-nunez/static/css/main.314a52d6.css.map",
+    "main.56f1506a.js.map": "/alex-nunez/static/js/main.56f1506a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.314a52d6.css",
+    "static/js/main.56f1506a.js"
+  ]
+}
