@@ -19,6 +19,7 @@ export default function Projects() {
           {projects.map((project) => (
             <a
               href={project.link}
+              //href={project.subtitle}
               key={project.image}
               className="sm:w-1/2 w-100 p-4"
             >
