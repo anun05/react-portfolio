@@ -16,7 +16,7 @@
   ## Installation
   Images here of how it turned out! Demo video link: [Demo Video](https://watch.screencastify.com/v/v6PAeWv8hxGaOPgZQZDl)
 
-![Profile](![Screenshot 2022-01-19 162658](https://user-images.githubusercontent.com/88000788/150241500-5137e5ca-749a-4537-afe2-1941701dddf3.png))
+![Profile](![Screenshot 2022-01-19 162658](https://user-images.githubusercontent.com/88000788/150241500-5137e5ca-749a-4537-afe2-1941701dddf3.png)
 
 
 
